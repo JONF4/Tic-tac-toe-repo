@@ -45,6 +45,8 @@ color: white
       
 }
 
+/* This entire code from line 50 onwards is intended to make the button appear 3D*/
+
 .restart-btn{
     background: #938af3;
     border-radius: 12px;
